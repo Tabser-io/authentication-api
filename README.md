@@ -1,25 +1,21 @@
 # tabser-auth
-tabser authentication component
 
-## Features
-|ID  |Feature    |Description|Feature Size|Completion|Depend On|Core Feature
-|:---|:---       |:---       |:---       |:---|:---|:---|
-|1|Authenticate user| Authenticate user using name and password|Large|:white_large_square:|-|-|
-
-## Core Features
-### 1. Authenticate user
-Authenticate user using name and password
-
-## Innovation Features
+tabset authentication component works as an API to authenticate users to get into tabset services.
 
 ## Installation
 
+The installation steps required to run the repo in production state.
+
 ## Development
 
+The development steps required to run the repo in development state.
+
 ## Repo Owner
+
 ```JSON
 {
-  "Name": "Waleed Alfaifi",
-  "Github": "https://github.com/eng0waleed",
+  "Name": "Mohammed Ameen",
+  "Email": "mo.ameen.eng@gmail.com",
+  "Github": "https://github.com/mo-ameenx0"
 }
 ```
